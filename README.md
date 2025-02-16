@@ -36,4 +36,4 @@ And counting, I always appreciate the opportunity to learn new things
   - Personal Portfolio [Check it out!](https://mugabiedwinportifolio.netlify.app/)
 Constructive feedbacks about my code are always welcome too. :smiley:
 
-[![Edwin Mugabi's github stats](https://github-readme-stats.vercel.app/api?username=okotdaniel)](https://github.com/ShadowrahlM)
+[![Edwin Mugabi's github stats](https://github-readme-stats.vercel.app/api?username=ShadowrahlM)](https://github.com/ShadowrahlM)
