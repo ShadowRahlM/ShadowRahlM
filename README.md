@@ -1,6 +1,6 @@
 # Hi Folks! I am Edwin Mugabi, a Fullstack Developer, for real. :robot:
 
-![Work Survival](http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif)
+![Work Survival](http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif)<br>
 I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and data storage!
 
 - 🌱 I’m currently learning ...
